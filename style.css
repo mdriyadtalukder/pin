@@ -1,0 +1,49 @@
+.pi{
+    padding-top: 147px;
+    padding-bottom: 147px;
+}
+.bt{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+.btnn{
+    background-color: #495BC3;
+}
+.tii{
+    color: #495BC3;
+}
+.gl{
+    background-color: #495BC3;
+    border: 8px solid #39458C;;
+}
+.btt{
+    background-color: #425062;
+    border: 3px solid #425062;
+    color: white;
+    font-weight: bold;
+}
+.inn{
+    background-color: #3D4153;
+}
+.bgg{
+    background-color: #353853;
+}
+.bb{
+    width: 340px;
+    padding-top: 25px;
+}
+.bb p{
+    visibility: hidden;
+}
+.r{
+    width: 400px;
+    background-color: #353853;
+    visibility: hidden;
+}
+.tex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
